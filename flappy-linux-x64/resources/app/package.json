@@ -1,0 +1,14 @@
+{
+  "name": "flappy",
+  "version": "1.0.0",
+  "description": "A clone of popular Flappy Bird game",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "tushar.rishav@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.5"
+  }
+}
